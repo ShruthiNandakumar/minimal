@@ -1,5 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+
 title: Shruthi N
 logo: /assets/img/shru.png
 description: IIITB upgrad student
 
-theme: jekyll-theme-minimal
